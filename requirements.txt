@@ -1,0 +1,8 @@
+streamlit
+anthropic
+pypdf
+python-docx
+pandas
+Pillow
+plotly
+pytesseract
